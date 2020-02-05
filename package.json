@@ -1,12 +1,12 @@
 {
-  "name": "Postcode Lookup",
+  "name": "postcode-lookup",
   "version": "1.0.0",
   "description": "Lookup for UK postcodes",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Benjamin Ling",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
